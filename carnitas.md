@@ -1,6 +1,6 @@
-#Carnitas
+# Carnitas
 
-###Ingredients
+### Ingredients
 - A pork roast (cut doesn't really matter, though I like boneless ones for simplicity)
 - 2 cartons of chicken broth (low/reduced sodium is my fave, regular == really salty meat, no salt added == bland)
 - 2 or 3 onions chopped into big chunks (8ths or so)
@@ -10,6 +10,7 @@
 - some cayenne if you like a bit of heat
 - jalapenos (pickled work well), 6 or 7 slices usually do the trick, but you can adjust to taste
 
+### Instructions
 Cut up the pork into cubes/chunks. I try to get pieces about 3"x3"x3" or so, but precision isn't really required.
 
 Throw everything in a pot, The meat should all be submerged in broth. If it's a bit below you can add some water.
